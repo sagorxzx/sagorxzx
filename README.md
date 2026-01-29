@@ -1,43 +1,37 @@
 # Hi there, I'm Sagor 👋 
 
 <p align="center">
-  <img src="s.png"/>
+  <img src="s.png" width="800" />
 </p>
+
+<div align="center">
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **learning new technologies**
 - 🌱 I’m currently learning **Full Stack Development**
 - 💬 Ask me about **anything related to tech**
-  
 
 ---
 
 ### 🛠 Skills
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" />
+</a>
 
 ---
 
 ### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagorxzx&show_icons=true&theme=radical&count_private=true" alt="sagorxzx's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagorxzx&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=sagorxzx&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagorxzx&layout=compact&theme=radical" alt="Top Langs" />
 
 ---
 
 ### 🐍 My GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sagorxzx/sagorxzx/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+<img src="https://raw.githubusercontent.com/sagorxzx/sagorxzx/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagorxzx&label=Profile%20views&color=0e75b6&style=flat" alt="sagorxzx" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=sagorxzx&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 
+</div>
