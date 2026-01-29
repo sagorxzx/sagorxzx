@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **learning new technologies**
 - 🌱 I’m currently learning **Full Stack Development**
 - 💬 Ask me about **anything related to tech**
-- 📫 How to reach me: **your-email@example.com**
+  
 
 ---
 
