@@ -1,7 +1,7 @@
 # Hi there, I'm Sagor 👋 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50" />
+  <img src="s.png"/>
 </p>
 
 ### 👨‍💻 About Me
