@@ -21,9 +21,9 @@
 ---
 
 ### 📊 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sagorxzx&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sagorxzx&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagorxzx&layout=compact&theme=radical" alt="Top Langs" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sagorxzx&layout=compact&theme=radical" alt="Top Langs" />
 
 ---
 
