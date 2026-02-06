@@ -1,14 +1,9 @@
 name: generate animation
 
 on:
-  # প্রতি ২৪ ঘণ্টায় একবার অটোমেটিক রান হবে
   schedule:
     - cron: "0 */24 * * *" 
-  
-  # আপনাকে ম্যানুয়ালি রান করার সুযোগ দেবে
   workflow_dispatch:
-  
-  # প্রতিবার মেইন ব্রাঞ্চে পুশ করলে রান হবে
   push:
     branches:
     - main
@@ -21,16 +16,14 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # সাপের অ্যানিমেশন তৈরি করার ধাপ
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-                    outputs: |
+          outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#00D2FF&color_dots=#161B22,#00458E,#0065C3,#0085F9,#00D2FF
-            
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00D2FF
 
-      # তৈরি হওয়া ফাইলটি আউটপুট ব্রাঞ্চে পুশ করার ধাপ
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
