@@ -23,7 +23,9 @@ I am a passionate Web Developer and Software Enthusiast. I love exploring new te
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sagorxzx&show_icons=true&theme=radical&count_private=true" alt="Sagor's Stats" />
 
-<br/><br/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sagorxzx&layout=compact&theme=radical" alt="Top Languages" />
+<br/><br/> 
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sagorxzx&layout=compact&theme=radical" alt="Top Languages" />
 
 ---
 
