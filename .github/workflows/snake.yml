@@ -26,9 +26,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#36BCF7&color_dots=#bfd3f2,#8db1e2,#5394e1,#216eb4,#11457b
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#36BCF7
+                    outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#00D2FF&color_dots=#161B22,#00458E,#0065C3,#0085F9,#00D2FF
+            
 
       # তৈরি হওয়া ফাইলটি আউটপুট ব্রাঞ্চে পুশ করার ধাপ
       - name: push github-contribution-grid-snake.svg to the output branch
